@@ -1,0 +1,9 @@
+
+/* This file is intentionally left mostly empty as styles are managed through Tailwind CSS */
+
+.lovable-widget {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
